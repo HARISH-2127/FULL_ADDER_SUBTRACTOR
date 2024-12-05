@@ -44,20 +44,39 @@ Write the detailed procedure here
 
 **Program:**
 
-![image](https://github.com/user-attachments/assets/402135fd-dec5-4f43-861a-e17b53bc240e)
+FULL ADDER
+
+![Screenshot 2024-12-05 200737](https://github.com/user-attachments/assets/72df5678-8c37-4039-9fca-764f38ed3070)
+
+FULL SUBTRACTOR
+
+![Screenshot 2024-12-05 201054](https://github.com/user-attachments/assets/bdd6edd5-d580-4811-aa47-a2503ed93a3b)
 
 
-Developed by: RegisterNumber: HARISH 24900739
-*/
+Developed by: **RegisterNumber**: HARISH 24900739
 
 **RTL Schematic**
 
-![Screenshot 2024-11-30 202343](https://github.com/user-attachments/assets/db8a8fb2-6ffe-4304-b490-6fd04df52b26)
+FULL ADDER
+
+![Screenshot 2024-12-05 201214](https://github.com/user-attachments/assets/f05bc66b-bcf3-4878-9aa9-e01f69db5608)
+
+
+FULL SUBTRACTOR
+
+![Screenshot 2024-12-05 201248](https://github.com/user-attachments/assets/d2b3b144-a690-456b-beff-2c38780332e0)
+
 
 
 **Output Timing Waveform**
 
-![Screenshot 2024-11-30 202034](https://github.com/user-attachments/assets/6c29cf83-4b9f-40a8-9525-f4899530669b)
+FULL ADDER
+
+![Screenshot 2024-12-05 201333](https://github.com/user-attachments/assets/34de222b-f7d4-422c-99f6-1a488a7e9d98)
+
+FULL SUBTRACTOR
+
+![Screenshot 2024-12-05 201435](https://github.com/user-attachments/assets/a9e21382-d149-4714-b943-c6470f3141c4)
 
 
 **Result:**
